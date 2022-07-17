@@ -80,9 +80,6 @@ h2{
     .sig-btn{
         width: 40% !important;
     }
-    footer{
-        height: 50vh !important;
-    }
 }
 
 @media(max-width: 426px){
@@ -94,9 +91,6 @@ h2{
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
-    }
-    footer{
-        height: 130vh !important;
     }
     br{
         display: none
